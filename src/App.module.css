@@ -1,0 +1,13 @@
+.wrapper {
+  max-width: 73.6rem;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+.tasks {
+  margin-top: 6.5rem;
+}
+
+.taskContainer {
+  margin-top: 2.4rem;
+}

@@ -1,0 +1,41 @@
+.taskContent {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.2rem;
+
+  padding: 1.6rem;
+  background-color: var(--gray-500);
+
+  border-radius: 0.8rem;
+}
+
+.taskContent input {
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--blue);
+  border-radius: 50%;
+  background: var(--blue);
+}
+
+.taskContent p {
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 19px;
+  color: var(--gray-100);
+}
+
+.taskContent button {
+  background: inherit;
+  border: none;
+
+  cursor: pointer;
+}
+
+.taskContent + .taskContent {
+  margin-top: 1.2rem;
+}
+
+.complete {
+  text-decoration: line-through;
+  opacity: 0.5;
+}

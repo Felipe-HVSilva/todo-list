@@ -1,0 +1,30 @@
+.taskHeader {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.taskHeader p {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.taskHeader span {
+  width: 2.5rem;
+  height: 1.9rem;
+
+  background-color: var(--gray-400);
+  padding: 0.2rem 0.8rem;
+  border-radius: 999px;
+
+  color: var(--gray-200);
+  margin-left: 0.8rem;
+}
+
+.createTask {
+  color: var(--blue);
+}
+
+.completeTask {
+  color: var(--purple);
+}
