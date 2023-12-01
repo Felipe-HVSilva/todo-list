@@ -2,20 +2,18 @@
 
 <p align="center">
    <h1 align="center">Tarefa</h1> 
-  <img alt="License" src="./screen-task.png">
+  <img height="500px" alt="License" src="./screen-task.png">
 </p>
 
 <p align="center">
    <h1 align="center">Tarefa Feita</h1> 
-  <img alt="License" src="./screen-task-completed.png">
+  <img  height="500px" alt="License" src="./screen-task-completed.png">
 </p>
 
 <p align="center">
-   <h1 align="center">Lista vazia</h1> 
-  <img alt="License" src="./screen-empty.png">
+   <h1  align="center">Lista vazia</h1> 
+  <img height="500px" alt="License" src="./screen-empty.png">
 </p>
-
-<video>
 
 ## 🚀 Tecnologias
 
